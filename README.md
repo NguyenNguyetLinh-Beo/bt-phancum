@@ -1,4 +1,9 @@
 # bt-phancum
+---
+
+## 🎥 Video demo
+https://youtu.be/4h85vv_rx7U
+
 # 📊 PHÂN CỤM SINH VIÊN K58KTP BẰNG K-MEANS
 
 ## 🎯 Giới thiệu
@@ -126,13 +131,6 @@ Kết quả cho thấy nhóm “Trung bình” chiếm đa số, tiếp theo là
 
 ---
 
-## 🎥 Video demo
-https://youtu.be/4h85vv_rx7U
-
----
-
-## 👨‍💻 Tác giả
-Sinh viên thực hiện bài tập môn Khoa học dữ liệu và học máy cơ bản
 ## ❓ Câu hỏi thảo luận + Trả lời
 
 ### 1. Vì sao cần chuẩn hóa dữ liệu trước khi dùng K-Means?
