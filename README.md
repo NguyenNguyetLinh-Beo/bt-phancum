@@ -2,7 +2,7 @@
 ---
 
 ## 🎥 Video demo
-https://youtu.be/4h85vv_rx7U
+[https://youtu.be/4h85vv_rx7U](https://youtu.be/Vi1N104zPds)
 
 # 📊 PHÂN CỤM SINH VIÊN K58KTP BẰNG K-MEANS
 
