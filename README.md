@@ -152,6 +152,10 @@ Kết quả cho thấy nhóm “Trung bình” chiếm đa số, tiếp theo là
 👉 Có thể dùng DBSCAN hoặc Hierarchical Clustering. Các thuật toán này có thể xử lý dữ liệu phức tạp hơn và không cần chọn k cố định như K-Means.
 
 ---
+### 5. Phân loại học lực bằng clustering có hoàn toàn chính xác không?
+👉 Không hoàn toàn chính xác, vì clustering chỉ dựa trên dữ liệu mà không có nhãn thật. Nó chỉ mang tính tham khảo để phân tích xu hướng, không thay thế được đánh giá chính thức.
+
+---
 
 ## 🧠 Nhận xét cá nhân
 
@@ -162,5 +166,4 @@ Trong quá trình làm bài, em gặp khá nhiều vấn đề như dữ liệu 
 Bài tập cũng giúp em nhận ra rằng K-Means không phải lúc nào cũng cho kết quả hoàn hảo, đặc biệt khi dữ liệu có sự chồng lấn giữa các nhóm. Vì vậy, việc chọn số cụm và xử lý dữ liệu đầu vào đóng vai trò rất quan trọng.
 
 Tổng kết lại, bài thực hành này giúp em củng cố kiến thức về Python, xử lý dữ liệu và thuật toán K-Means, đồng thời hiểu rõ hơn cách phân tích dữ liệu trong thực tế.
-### 5. Phân loại học lực bằng clustering có hoàn toàn chính xác không?
-👉 Không hoàn toàn chính xác, vì clustering chỉ dựa trên dữ liệu mà không có nhãn thật. Nó chỉ mang tính tham khảo để phân tích xu hướng, không thay thế được đánh giá chính thức.
+
