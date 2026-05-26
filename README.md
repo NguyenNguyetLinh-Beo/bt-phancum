@@ -166,4 +166,7 @@ Trong quá trình làm bài, em gặp khá nhiều vấn đề như dữ liệu 
 Bài tập cũng giúp em nhận ra rằng K-Means không phải lúc nào cũng cho kết quả hoàn hảo, đặc biệt khi dữ liệu có sự chồng lấn giữa các nhóm. Vì vậy, việc chọn số cụm và xử lý dữ liệu đầu vào đóng vai trò rất quan trọng.
 
 Tổng kết lại, bài thực hành này giúp em củng cố kiến thức về Python, xử lý dữ liệu và thuật toán K-Means, đồng thời hiểu rõ hơn cách phân tích dữ liệu trong thực tế.
+### Sau khi e chỉnh lại dữ liệu kết quả đã đúng với biểu đồ......
+<img width="1898" height="1019" alt="Screenshot 2026-05-26 171533" src="https://github.com/user-attachments/assets/c0cd89be-9da9-4493-954e-182b6118803c" />
+
 
